@@ -1,0 +1,34 @@
+/*front panel with logo*/
+.front-panel {
+    position: absolute;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    width: 20%;
+    background: rgba(255,255,255,1);
+
+}
+.zero-paddings {
+    padding-left: 0px;
+}
+
+.white-background {
+    background-color: white;
+}
+.font-lespasperdus {
+    font-family: 'Amatic SC', cursive;
+    font-size: 60px;
+}
+
+.blue-lespasperdus {
+    color: #4f4c92ff;
+}
+.red-lespasperdus {
+    color: #d6266dff;
+}
+.yellow-lespasperdus {
+    color: #ffbf29ff;
+}
+
+
+

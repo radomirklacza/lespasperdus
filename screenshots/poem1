@@ -1,0 +1,72 @@
+	<div id="whatis" class="content-section-b fadeInRightBig animated animated" style="min-height:100%; border-top: 0">
+		<div class="container ">
+
+			<div style="width: 100%; min-height: 30%;" class="col-md-6  text-center wrap_title">
+				<p></p>
+				<p></p>
+				<p></p>
+				<img class="rotate" style="height: 60px; width: auto;" src="img/menu/pourquoi_le_nom.svg">
+				<p class="lead" style="margin-top:0">&copy; Clemence</p>
+				<p></p>
+				<p>...</p>
+
+			</div>
+
+			
+			<div class="row fadeInLeftBig animated animated" style="margin-top:80px; font-size: 22px;">
+
+				<div class="col-sm-3  text-center">
+					<p>Tu vas, tu viens,<br>
+					Tu cherches ton chemin.<br>
+					Tu vas, tu viens,<br>
+						Tu cherches.</p>
+
+				</div><!-- /.col-lg-4 -->
+
+				<div class="col-sm-3 text-center">
+					<p>Tes pas se perdent,<br>
+						Les pas vont et viennent,<br>
+						Ils cherchent.<br>
+						Les pas vont et viennent,<br>
+						Perdus, les pas.
+					</p>
+
+				</div><!-- /.col-lg-4 -->
+
+				<div class="col-sm-3  text-center">
+					<p>Tu vas, tu viens, par où ?<br>
+						Tu vas, tu viens.<br>
+						Tu cherches ton chemin.<br>
+						Tu vas, tu viens.
+					</p>
+
+				</div><!-- /.col-lg-4 -->
+				<div class="col-sm-3  text-center">
+					<p>Tu cherches, par où ?<br>
+						Tu viens.<br>
+						Par ici, tu viens.<br>
+						Ouf !<br>
+						Les pas,<br>
+						Pas perdus, non.
+					</p>
+
+				</div><!-- /.col-lg-4 -->
+
+
+			</div><!-- /.row -->
+			<div class="row fadeInLeftBig animated animated" style="margin-top:40px; font-size: 22px;">
+				<div class="col-sm-12  text-center">
+
+					<img src="img/logo/logo1.png" style="max-height: 350px;">
+
+				</div><!-- /.col-lg-4 -->
+
+			</div>
+
+
+
+			</div><!-- /.row -->
+				
+
+		</div>
+	</div>
